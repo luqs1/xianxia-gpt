@@ -9,7 +9,9 @@ wheels/
 # Virtual environments
 .venv
 
+# vscode
+.vscode
 
-# Novels
+# novels
 novels/*
 novels-text/*
